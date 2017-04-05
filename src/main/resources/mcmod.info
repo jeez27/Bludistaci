@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bludistaci",
+  "name": "Bludistaci domaci",
+  "description": "Bludistaci domaci, jsou odmenou i trestem, motivaci i prokrastinaci",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jeez27"],
+  "credits": "The Forge and FML guys, for making this example, A dále pak mým klukum neposednym, ktery mě dokopali k tomu abych je nejak motivoval ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
