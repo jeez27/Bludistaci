@@ -1,0 +1,816 @@
+[13:14:28] [main/INFO]: Setting user: Player158
+[13:14:30] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:14:31] [Client thread/ERROR]: Couldn't initialize twitch stream
+[13:14:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bludistaci domaci
+[13:14:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Bludistaci in /home/jeez/ProjektyJava/Bludistaci/build/libs/modid-1.0.jar
+[13:14:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Bludistaci in /home/jeez/ProjektyJava/Bludistaci/build/libs/modid-1.0.jar
+[13:14:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Bludistaci in /home/jeez/ProjektyJava/Bludistaci/build/libs/modid-1.0.jar
+[13:14:45] [Sound Library Loader/INFO]: Sound engine started
+[13:14:47] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:14:47] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:14:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bludistaci domaci
+[13:14:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Bludistaci in /home/jeez/ProjektyJava/Bludistaci/build/libs/modid-1.0.jar
+[13:14:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Bludistaci in /home/jeez/ProjektyJava/Bludistaci/build/libs/modid-1.0.jar
+[13:14:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Bludistaci in /home/jeez/ProjektyJava/Bludistaci/build/libs/modid-1.0.jar
+[13:14:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:14:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:14:50] [Sound Library Loader/INFO]: Sound engine started
+[13:14:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:14:59] [Server thread/INFO]: Generating keypair
+[13:15:00] [Server thread/INFO]: Preparing start region for level 0
+[13:15:01] [Server thread/INFO]: Preparing spawn area: 13%
+[13:15:02] [Server thread/INFO]: Preparing spawn area: 64%
+[13:15:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:15:05] [Server thread/INFO]: Player158[local:E:3b83071f] logged in with entity id 244 at (-70.5, 66.0, 182.5)
+[13:15:05] [Server thread/INFO]: Player158 joined the game
+[13:15:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2189ms behind, skipping 43 tick(s)
+[13:15:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:18] [Client thread/ERROR]: @ Post render
+[13:15:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:18] [Client thread/ERROR]: @ Post render
+[13:15:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:18] [Client thread/ERROR]: @ Post render
+[13:15:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:18] [Client thread/ERROR]: @ Post render
+[13:15:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:19] [Client thread/ERROR]: @ Post render
+[13:15:19] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:19] [Client thread/ERROR]: @ Post render
+[13:15:19] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:19] [Client thread/ERROR]: @ Post render
+[13:15:19] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:20] [Client thread/ERROR]: @ Post render
+[13:15:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:20] [Client thread/ERROR]: @ Post render
+[13:15:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:20] [Client thread/ERROR]: @ Post render
+[13:15:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:20] [Client thread/ERROR]: @ Post render
+[13:15:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:21] [Client thread/ERROR]: @ Post render
+[13:15:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:21] [Client thread/ERROR]: @ Post render
+[13:15:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:21] [Client thread/ERROR]: @ Post render
+[13:15:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:21] [Client thread/ERROR]: @ Post render
+[13:15:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:22] [Client thread/ERROR]: @ Post render
+[13:15:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:22] [Client thread/ERROR]: @ Post render
+[13:15:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:22] [Client thread/ERROR]: @ Post render
+[13:15:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:22] [Client thread/ERROR]: @ Post render
+[13:15:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:23] [Client thread/ERROR]: @ Post render
+[13:15:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:23] [Client thread/ERROR]: @ Post render
+[13:15:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:23] [Client thread/ERROR]: @ Post render
+[13:15:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:23] [Client thread/ERROR]: @ Post render
+[13:15:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:24] [Client thread/ERROR]: @ Post render
+[13:15:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:24] [Client thread/ERROR]: @ Post render
+[13:15:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:24] [Client thread/ERROR]: @ Post render
+[13:15:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:24] [Client thread/ERROR]: @ Post render
+[13:15:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:25] [Client thread/ERROR]: @ Post render
+[13:15:25] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:25] [Client thread/ERROR]: @ Post render
+[13:15:25] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:32] [Client thread/ERROR]: @ Post render
+[13:15:32] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:32] [Client thread/ERROR]: @ Post render
+[13:15:32] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:32] [Client thread/ERROR]: @ Post render
+[13:15:32] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:33] [Client thread/ERROR]: @ Post render
+[13:15:33] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:34] [Client thread/ERROR]: @ Post render
+[13:15:34] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:34] [Server thread/INFO]: Player158 has just earned the achievement [Taking Inventory]
+[13:15:34] [Client thread/INFO]: [CHAT] Player158 has just earned the achievement [Taking Inventory]
+[13:15:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:35] [Client thread/ERROR]: @ Post render
+[13:15:35] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:36] [Client thread/ERROR]: @ Post render
+[13:15:36] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:36] [Client thread/ERROR]: @ Post render
+[13:15:36] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:37] [Client thread/ERROR]: @ Post render
+[13:15:37] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:37] [Client thread/ERROR]: @ Post render
+[13:15:37] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:37] [Client thread/ERROR]: @ Post render
+[13:15:37] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:37] [Client thread/ERROR]: @ Post render
+[13:15:37] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:38] [Client thread/ERROR]: @ Post render
+[13:15:38] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:38] [Client thread/ERROR]: @ Post render
+[13:15:38] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:38] [Client thread/ERROR]: @ Post render
+[13:15:38] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:39] [Client thread/ERROR]: @ Post render
+[13:15:39] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:39] [Client thread/ERROR]: @ Post render
+[13:15:39] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:39] [Client thread/ERROR]: @ Post render
+[13:15:39] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:39] [Client thread/ERROR]: @ Post render
+[13:15:39] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:40] [Client thread/ERROR]: @ Post render
+[13:15:40] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:40] [Client thread/ERROR]: @ Post render
+[13:15:40] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:40] [Client thread/ERROR]: @ Post render
+[13:15:40] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:41] [Client thread/ERROR]: @ Post render
+[13:15:41] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:41] [Client thread/ERROR]: @ Post render
+[13:15:41] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:41] [Client thread/ERROR]: @ Post render
+[13:15:41] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:42] [Client thread/ERROR]: @ Post render
+[13:15:42] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:42] [Client thread/ERROR]: @ Post render
+[13:15:42] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:42] [Client thread/ERROR]: @ Post render
+[13:15:42] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:43] [Client thread/ERROR]: @ Post render
+[13:15:43] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:43] [Client thread/ERROR]: @ Post render
+[13:15:43] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:43] [Client thread/ERROR]: @ Post render
+[13:15:43] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:44] [Client thread/ERROR]: @ Post render
+[13:15:44] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:44] [Client thread/ERROR]: @ Post render
+[13:15:44] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:44] [Client thread/ERROR]: @ Post render
+[13:15:44] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:45] [Client thread/ERROR]: @ Post render
+[13:15:45] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:45] [Client thread/ERROR]: @ Post render
+[13:15:45] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:46] [Client thread/ERROR]: @ Post render
+[13:15:46] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:46] [Client thread/ERROR]: @ Post render
+[13:15:46] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:47] [Client thread/ERROR]: @ Post render
+[13:15:47] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:47] [Client thread/ERROR]: @ Post render
+[13:15:47] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:48] [Client thread/ERROR]: @ Post render
+[13:15:48] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:48] [Client thread/ERROR]: @ Post render
+[13:15:48] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:49] [Client thread/ERROR]: @ Post render
+[13:15:49] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:49] [Client thread/ERROR]: @ Post render
+[13:15:49] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:50] [Client thread/ERROR]: @ Post render
+[13:15:50] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:50] [Client thread/ERROR]: @ Post render
+[13:15:50] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:50] [Client thread/ERROR]: @ Post render
+[13:15:50] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:51] [Client thread/ERROR]: @ Post render
+[13:15:51] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:51] [Client thread/ERROR]: @ Post render
+[13:15:51] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:51] [Client thread/ERROR]: @ Post render
+[13:15:51] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:51] [Client thread/ERROR]: @ Post render
+[13:15:51] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:52] [Client thread/ERROR]: @ Post render
+[13:15:52] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:52] [Client thread/ERROR]: @ Post render
+[13:15:52] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:52] [Client thread/ERROR]: @ Post render
+[13:15:52] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:53] [Client thread/ERROR]: @ Post render
+[13:15:53] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:53] [Client thread/ERROR]: @ Post render
+[13:15:53] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:53] [Client thread/ERROR]: @ Post render
+[13:15:53] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:54] [Client thread/ERROR]: @ Post render
+[13:15:54] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:54] [Client thread/ERROR]: @ Post render
+[13:15:54] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:54] [Client thread/ERROR]: @ Post render
+[13:15:54] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:54] [Client thread/ERROR]: @ Post render
+[13:15:54] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:54] [Client thread/ERROR]: @ Post render
+[13:15:54] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:55] [Client thread/ERROR]: @ Post render
+[13:15:55] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:55] [Client thread/ERROR]: @ Post render
+[13:15:55] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:55] [Client thread/ERROR]: @ Post render
+[13:15:55] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:56] [Client thread/ERROR]: @ Post render
+[13:15:56] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:56] [Client thread/ERROR]: @ Post render
+[13:15:56] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:57] [Client thread/ERROR]: @ Post render
+[13:15:57] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:57] [Client thread/ERROR]: @ Post render
+[13:15:57] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:57] [Client thread/ERROR]: @ Post render
+[13:15:57] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:58] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:58] [Client thread/ERROR]: @ Post render
+[13:15:58] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:58] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:58] [Client thread/ERROR]: @ Post render
+[13:15:58] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:59] [Client thread/ERROR]: @ Post render
+[13:15:59] [Client thread/ERROR]: 1280: Invalid enum
+[13:15:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:15:59] [Client thread/ERROR]: @ Post render
+[13:15:59] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:00] [Client thread/ERROR]: @ Post render
+[13:16:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:00] [Client thread/ERROR]: @ Post render
+[13:16:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:00] [Client thread/ERROR]: @ Post render
+[13:16:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:01] [Client thread/ERROR]: @ Post render
+[13:16:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:01] [Client thread/ERROR]: @ Post render
+[13:16:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:01] [Client thread/ERROR]: @ Post render
+[13:16:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:02] [Client thread/ERROR]: @ Post render
+[13:16:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:02] [Client thread/ERROR]: @ Post render
+[13:16:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:02] [Client thread/ERROR]: @ Post render
+[13:16:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:03] [Client thread/ERROR]: @ Post render
+[13:16:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:03] [Client thread/ERROR]: @ Post render
+[13:16:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:03] [Client thread/ERROR]: @ Post render
+[13:16:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:03] [Client thread/ERROR]: @ Post render
+[13:16:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:04] [Client thread/ERROR]: @ Post render
+[13:16:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:04] [Client thread/ERROR]: @ Post render
+[13:16:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:05] [Client thread/ERROR]: @ Post render
+[13:16:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:05] [Client thread/ERROR]: @ Post render
+[13:16:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:06] [Client thread/ERROR]: @ Post render
+[13:16:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:06] [Client thread/ERROR]: @ Post render
+[13:16:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:06] [Client thread/ERROR]: @ Post render
+[13:16:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:07] [Client thread/ERROR]: @ Post render
+[13:16:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:07] [Client thread/ERROR]: @ Post render
+[13:16:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:07] [Client thread/ERROR]: @ Post render
+[13:16:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:07] [Client thread/ERROR]: @ Post render
+[13:16:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:08] [Client thread/ERROR]: @ Post render
+[13:16:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:08] [Client thread/ERROR]: @ Post render
+[13:16:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:09] [Client thread/ERROR]: @ Post render
+[13:16:09] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:09] [Client thread/ERROR]: @ Post render
+[13:16:09] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:09] [Client thread/ERROR]: @ Post render
+[13:16:09] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:09] [Server thread/INFO]: [Player158: Given [item.PrvniItem.name] * 1 to Player158]
+[13:16:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:09] [Client thread/ERROR]: @ Post render
+[13:16:09] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:09] [Client thread/INFO]: [CHAT] Given [item.PrvniItem.name] * 1 to Player158
+[13:16:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:09] [Client thread/ERROR]: @ Post render
+[13:16:09] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:10] [Client thread/ERROR]: @ Post render
+[13:16:10] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:10] [Client thread/ERROR]: @ Post render
+[13:16:10] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:10] [Client thread/ERROR]: @ Post render
+[13:16:10] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:10] [Client thread/ERROR]: @ Post render
+[13:16:10] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:11] [Client thread/ERROR]: @ Post render
+[13:16:11] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:11] [Client thread/ERROR]: @ Post render
+[13:16:11] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:11] [Client thread/ERROR]: @ Post render
+[13:16:11] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:15] [Client thread/ERROR]: @ Post render
+[13:16:15] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:15] [Client thread/ERROR]: @ Post render
+[13:16:15] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:16] [Client thread/ERROR]: @ Post render
+[13:16:16] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:16] [Client thread/ERROR]: @ Post render
+[13:16:16] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:16] [Client thread/ERROR]: @ Post render
+[13:16:16] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:17] [Client thread/ERROR]: @ Post render
+[13:16:17] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:17] [Client thread/ERROR]: @ Post render
+[13:16:17] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:18] [Client thread/ERROR]: @ Post render
+[13:16:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:18] [Client thread/ERROR]: @ Post render
+[13:16:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:18] [Client thread/ERROR]: @ Post render
+[13:16:18] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:19] [Client thread/ERROR]: @ Post render
+[13:16:19] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:19] [Client thread/ERROR]: @ Post render
+[13:16:19] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:20] [Client thread/ERROR]: @ Post render
+[13:16:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:20] [Client thread/ERROR]: @ Post render
+[13:16:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:20] [Client thread/ERROR]: @ Post render
+[13:16:20] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:21] [Client thread/ERROR]: @ Post render
+[13:16:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:21] [Client thread/ERROR]: @ Post render
+[13:16:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:21] [Client thread/ERROR]: @ Post render
+[13:16:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:21] [Client thread/ERROR]: @ Post render
+[13:16:21] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:22] [Client thread/ERROR]: @ Post render
+[13:16:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:22] [Client thread/ERROR]: @ Post render
+[13:16:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:22] [Client thread/ERROR]: @ Post render
+[13:16:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:22] [Client thread/ERROR]: @ Post render
+[13:16:22] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:23] [Client thread/ERROR]: @ Post render
+[13:16:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:23] [Client thread/ERROR]: @ Post render
+[13:16:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:23] [Client thread/ERROR]: @ Post render
+[13:16:23] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:24] [Client thread/ERROR]: @ Post render
+[13:16:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:24] [Client thread/ERROR]: @ Post render
+[13:16:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:24] [Client thread/ERROR]: @ Post render
+[13:16:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:24] [Client thread/ERROR]: @ Post render
+[13:16:24] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:25] [Client thread/ERROR]: @ Post render
+[13:16:25] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:25] [Client thread/ERROR]: @ Post render
+[13:16:25] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:25] [Client thread/ERROR]: @ Post render
+[13:16:25] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:26] [Client thread/ERROR]: @ Post render
+[13:16:26] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:26] [Client thread/ERROR]: @ Post render
+[13:16:26] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:26] [Client thread/ERROR]: @ Post render
+[13:16:26] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:26] [Client thread/ERROR]: @ Post render
+[13:16:26] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:27] [Client thread/ERROR]: @ Post render
+[13:16:27] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:27] [Client thread/ERROR]: @ Post render
+[13:16:27] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:27] [Client thread/ERROR]: @ Post render
+[13:16:27] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:27] [Client thread/ERROR]: @ Post render
+[13:16:27] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:28] [Client thread/ERROR]: @ Post render
+[13:16:28] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:28] [Client thread/ERROR]: @ Post render
+[13:16:28] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:28] [Client thread/ERROR]: @ Post render
+[13:16:28] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:30] [Server thread/INFO]: Saving and pausing game...
+[13:16:30] [Server thread/INFO]: Saving chunks for level 'testword'/Overworld
+[13:16:30] [Server thread/INFO]: Saving chunks for level 'testword'/Nether
+[13:16:30] [Server thread/INFO]: Saving chunks for level 'testword'/The End
+[13:16:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:42] [Client thread/ERROR]: @ Post render
+[13:16:42] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:42] [Client thread/ERROR]: @ Post render
+[13:16:42] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:42] [Client thread/ERROR]: @ Post render
+[13:16:42] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2167ms behind, skipping 43 tick(s)
+[13:16:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:53] [Client thread/ERROR]: @ Post render
+[13:16:53] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:55] [Client thread/ERROR]: @ Post render
+[13:16:55] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:55] [Client thread/ERROR]: @ Post render
+[13:16:55] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:56] [Client thread/ERROR]: @ Post render
+[13:16:56] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:56] [Client thread/ERROR]: @ Post render
+[13:16:56] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:57] [Client thread/ERROR]: @ Post render
+[13:16:57] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:57] [Client thread/ERROR]: @ Post render
+[13:16:57] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[13:16:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[13:16:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 132 ms
+[13:16:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 246 ms
+[13:16:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 274 ms
+[13:16:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:59] [Client thread/ERROR]: @ Post render
+[13:16:59] [Client thread/ERROR]: 1280: Invalid enum
+[13:16:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:16:59] [Client thread/ERROR]: @ Post render
+[13:16:59] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:00] [Client thread/ERROR]: @ Post render
+[13:17:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:00] [Client thread/ERROR]: @ Post render
+[13:17:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:00] [Client thread/ERROR]: @ Post render
+[13:17:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:00] [Client thread/ERROR]: @ Post render
+[13:17:00] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:01] [Client thread/ERROR]: @ Post render
+[13:17:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:01] [Client thread/ERROR]: @ Post render
+[13:17:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:01] [Client thread/ERROR]: @ Post render
+[13:17:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:01] [Client thread/ERROR]: @ Post render
+[13:17:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:01] [Client thread/ERROR]: @ Post render
+[13:17:01] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:02] [Client thread/ERROR]: @ Post render
+[13:17:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:02] [Client thread/ERROR]: @ Post render
+[13:17:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:02] [Client thread/ERROR]: @ Post render
+[13:17:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:02] [Client thread/ERROR]: @ Post render
+[13:17:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:02] [Client thread/ERROR]: @ Post render
+[13:17:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:02] [Client thread/ERROR]: @ Post render
+[13:17:02] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:03] [Client thread/ERROR]: @ Post render
+[13:17:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:03] [Client thread/ERROR]: @ Post render
+[13:17:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:03] [Client thread/ERROR]: @ Post render
+[13:17:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:03] [Client thread/ERROR]: @ Post render
+[13:17:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:03] [Client thread/ERROR]: @ Post render
+[13:17:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:03] [Client thread/ERROR]: @ Post render
+[13:17:03] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:04] [Client thread/ERROR]: @ Post render
+[13:17:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:04] [Client thread/ERROR]: @ Post render
+[13:17:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:04] [Client thread/ERROR]: @ Post render
+[13:17:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:04] [Client thread/ERROR]: @ Post render
+[13:17:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:04] [Client thread/ERROR]: @ Post render
+[13:17:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:04] [Client thread/ERROR]: @ Post render
+[13:17:04] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:05] [Client thread/ERROR]: @ Post render
+[13:17:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:05] [Client thread/ERROR]: @ Post render
+[13:17:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:05] [Client thread/ERROR]: @ Post render
+[13:17:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:05] [Client thread/ERROR]: @ Post render
+[13:17:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:05] [Client thread/ERROR]: @ Post render
+[13:17:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:05] [Client thread/ERROR]: @ Post render
+[13:17:05] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:06] [Client thread/ERROR]: @ Post render
+[13:17:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:06] [Client thread/ERROR]: @ Post render
+[13:17:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:06] [Client thread/ERROR]: @ Post render
+[13:17:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:06] [Client thread/ERROR]: @ Post render
+[13:17:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:06] [Client thread/ERROR]: @ Post render
+[13:17:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:06] [Client thread/ERROR]: @ Post render
+[13:17:06] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:07] [Client thread/ERROR]: @ Post render
+[13:17:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:07] [Client thread/ERROR]: @ Post render
+[13:17:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:07] [Client thread/ERROR]: @ Post render
+[13:17:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:07] [Client thread/ERROR]: @ Post render
+[13:17:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:07] [Server thread/INFO]: Saving and pausing game...
+[13:17:07] [Server thread/INFO]: Saving chunks for level 'testword'/Overworld
+[13:17:07] [Server thread/INFO]: Saving chunks for level 'testword'/Nether
+[13:17:07] [Server thread/INFO]: Saving chunks for level 'testword'/The End
+[13:17:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:07] [Client thread/ERROR]: @ Post render
+[13:17:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:07] [Client thread/ERROR]: @ Post render
+[13:17:07] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:08] [Client thread/ERROR]: @ Post render
+[13:17:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:08] [Client thread/ERROR]: @ Post render
+[13:17:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:08] [Client thread/ERROR]: @ Post render
+[13:17:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:08] [Client thread/ERROR]: @ Post render
+[13:17:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:08] [Client thread/ERROR]: @ Post render
+[13:17:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:08] [Client thread/ERROR]: @ Post render
+[13:17:08] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:17:09] [Client thread/ERROR]: @ Post render
+[13:17:09] [Client thread/ERROR]: 1280: Invalid enum
+[13:17:09] [Server thread/INFO]: Stopping server
+[13:17:09] [Server thread/INFO]: Saving players
+[13:17:09] [Server thread/INFO]: Saving worlds
+[13:17:09] [Server thread/INFO]: Saving chunks for level 'testword'/Overworld
+[13:17:09] [Server thread/INFO]: Saving chunks for level 'testword'/Nether
+[13:17:09] [Server thread/INFO]: Saving chunks for level 'testword'/The End
+[13:19:25] [Client thread/INFO]: Stopping!
