@@ -4,6 +4,8 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
+import cz.aspone.mlyan.Bludistaci.Bludistaci;
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 
 /**
@@ -12,12 +14,18 @@ import net.minecraft.item.Item;
 public class BludistaciItems {
 
 
-    public static Item prvniItem;
+    public static Item Modry;
+    public static Item Zlaty;
+
 
 
     public void preInit(FMLPreInitializationEvent event) {
-        prvniItem = new PrvniItem().setUnlocalizedName("PrvniItem");
-        GameRegistry.registerItem(prvniItem, prvniItem.getUnlocalizedName().substring(5));
+        Modry =  new ModryBludistak().setUnlocalizedName("ModryItem").setCreativeTab(Bludistaci.bludistaciTab).setTextureName("bludistaci:BM");
+        Zlaty = new ZlatyBludistak(Bludistaci.bludistaciTab, "ZlatyItem", "bludistaci:BZ");
+
+
+        GameRegistry.registerItem(Modry, Modry.getUnlocalizedName().substring(5));
+        GameRegistry.registerItem(Zlaty,Zlaty.getUnlocalizedName().substring(5));
 
     }
 

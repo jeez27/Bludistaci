@@ -1,4 +1,18 @@
 #Český překlad pro mod Bludišťáci.
 
+##############
 # Creative Tab
-itemGroup.Bludistaci=Bludy
+##############
+itemGroup.Bludistaci.name =Bludy
+
+###############
+# Názvy Předmětů
+##############
+item.ModryItem.name= Modrý Bludišťák
+item.ZlatyItem.name= Zlatý Bludišťák
+
+#########
+#Názvy Bloků
+##########
+tile.PrvniBlock.name= První Blok podle železa
+

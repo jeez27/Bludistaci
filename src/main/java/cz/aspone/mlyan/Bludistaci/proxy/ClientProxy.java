@@ -8,6 +8,9 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
  * Created by jeez on 5.4.17.
  */
 public class ClientProxy extends CommonProxy {
+
+
+
     public void preInit(FMLPreInitializationEvent event) {
 
     }
